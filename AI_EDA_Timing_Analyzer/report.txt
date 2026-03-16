@@ -1,0 +1,11 @@
+Startpoint: FF1
+Endpoint: FF2
+Slack: -0.30
+
+Startpoint: FF3
+Endpoint: FF4
+Slack: 0.12
+
+Startpoint: FF5
+Endpoint: FF6
+Slack: -0.10
