@@ -64,7 +64,7 @@ The module processes input signals and produces outputs according to the RTL log
 | 5   | cout      | Output    | 1            | General purpose signal                        |
 
 
-**PDF Forma**
+**PDF Format**
 
 <img width="715" height="541" alt="image" src="https://github.com/user-attachments/assets/061484eb-63df-4afc-a903-6937c811146e" />
 
